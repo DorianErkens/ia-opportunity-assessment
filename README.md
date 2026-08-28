@@ -1,5 +1,5 @@
 # Référentiel d'Évaluation des Opportunités & Filtre IA
-**Direction Innovation & Technologie — Legallais**
+**Direction Innovation & Technologie **
 *Auteur : Responsable Produit Innovation & IA (Dorian Erkens)*
 
 ---
@@ -32,7 +32,7 @@ Pour l'utiliser avec un agent IA Antigravity :
 
 ---
 
-## 💡 Principes Directeurs Legallais
+## 💡 Principes Directeurs 
 
 1. **L'IA ASSISTE** : L'IA n'automatise pas de décision globale sans supervision ; elle assiste les collaborateurs et les clients.
 2. **RESPONSABILITÉ HUMAINE** : L'expertise métier, la validation finale et la responsabilité restent 100 % humaines.
